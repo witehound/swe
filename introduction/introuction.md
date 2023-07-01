@@ -9,6 +9,7 @@
 - Instead of writing new software, you should reuse previously written and developed software.
 - Thus, it will make your software more reliable and save you time, it will play an important role in your development.
 - All Key points of software.
+- Software process activity includes software specification, software development, software validation and software evolution ( software life-cycle ).
 - Professional Responsibility and the problems of these responsibilities.
 - Case Studies.
 - The software engineer must determine a path before starting the project.
