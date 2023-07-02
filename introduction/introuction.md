@@ -30,4 +30,5 @@ Study guide
 - Types of applications include stand alone applications ( example is a private bussiness inventory management system ), intaractive based applications ( example is web based applications ),
 embedded control system ( example are hardware sysmtem programs ), batch processing systems ( examples large scale computing systems ), systems for modelling and stimulations.
 - Software re-use is very important, re-using software during development is critical.
-- Software engineer ethics includes the following confidentiality, competence, intellectual properties right, computer misuse
+- Software engineer ethics includes the following confidentiality, competence, intellectual properties right, computer misuse.
+- Software engineer always design the system based on system requirements before implementatioon begins.
