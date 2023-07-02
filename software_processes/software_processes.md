@@ -3,4 +3,5 @@ Study guide
 - Process description - Products, roles, pre and post conditions.
 - Types of software processes - plan driven andd agile processes ( dependent on software specification).
 - The water fall model phases - requirements definition, system and software design, implementation and unit testing, integration and system testing, operation and maintainance.
+- Reuse oriented software engineering phases - requirement specifications, component analysis, requirement modifications, system design reuse, development and integration, system validation.
 - The rational unified process - This is the approach to software development that implements architectural, object based, component based approach to system development ( mordern approach ).
