@@ -1,3 +1,45 @@
+Take away
+- Software process models
+- A structered set of activities required to develop a software system.
+- In agile processes, planning is incremental and it is easier to change the process to reflect changing customer requirements.
+- The waterfall model is mostly used for large systems engineering projects where a system is developed.
+- Reuse-oriented Software Engineering
+- Reuse is now the standard approach for building many types of business system.
+- Process activities 
+- Requirements engineering process
+- Is it technically and financially feasible to build the system?
+- Software Validation
+- Involves checking and review processes and system testing.
+- Testing is the most commonly used V & V activity.
+- System testing
+- Testing of the system as a whole. Testing of emergent properties is particularly important.
+- Software Evolution
+- Software is inherently flexible and change.
+- Coping with change
+- Change is inevitable in all larger projects. 
+- Software Prototyping
+- Benefits of Prototyping
+- Improved system usability
+- Improved design quality.
+- Reduced development effort.
+- Incremental Delivery
+- Boehm's Spiral Model
+- Spiral Model Sectors
+- Objective Setting
+- Risk assessment and reduction
+- Development and validation
+- Planning
+- The Rational Unified Process
+- Static workflows in the Rational Unified Process.
+- Business Modelling 
+- Requirements
+- Analysis and design 
+- Implementation
+- Testing
+- Deployment
+- Being a software engineer will only increase our value and increase our chances to get a good job offer and a good payment. There are many software engineers 
+comparing to 10 years ago which means competition is even more difficult. So we have to improve our talents.
+
 Study guide
 - Software process - A structured set of activities required to develop a software system, specification, design and implementation, validation and evolution.
 - Process description - Products, roles, pre and post conditions.
