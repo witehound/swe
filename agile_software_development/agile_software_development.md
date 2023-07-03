@@ -31,3 +31,5 @@ Agile Methods
 - Scaling Agile Methods
 - Large Systems Development
 - Scaling Out and Scaling Up
+
+Study guide
