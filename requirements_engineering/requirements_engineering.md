@@ -31,5 +31,3 @@ What is a requirement?
 - Review checks
 - Requirements management
 
-
-Study guide
