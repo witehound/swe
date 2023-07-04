@@ -33,3 +33,4 @@ Agile Methods
 - Scaling Out and Scaling Up
 
 Study guide
+- These software engineeering concepts are important for a professional career.
