@@ -29,5 +29,5 @@ What is a requirement?
 - Use casess
 - Ethnography
 - Review checks
-- Requirements management
+
 
